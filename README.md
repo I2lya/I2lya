@@ -9,8 +9,7 @@
 <h2 align="center">⚗️ Tech Stack</h2>
 <p align="center">
 
-- 🐍 **Python** — `FastAPI` `Discord.py/Disnake` `SQLAlchemy`
-- 🦦 **Golang** — `Fiber` `MinIO` `GORM`
+- 🐍 **Python** — `Discord.py/Disnake` 
 - 🌐 **HTML5, CSS3, JavaScript**
 - 👩🏻‍💻 **Node JS** - `Cowsay`
 </br>
